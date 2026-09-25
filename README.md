@@ -1,6 +1,10 @@
+div align="center">
+   
 # 🤖 AI Interview Prep Kit
 
 ### Full-Stack Engineering Assessment — Trao
+
+</div>
 
 An AI-powered full-stack application that transforms a **Job Description (JD), Company Website, and Interview Timeline** into a structured, personalised interview preparation kit.
 
